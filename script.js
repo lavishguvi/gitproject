@@ -1,1 +1,1 @@
-console.log("Welcome to script file");
+console.log("Welcome to script");
